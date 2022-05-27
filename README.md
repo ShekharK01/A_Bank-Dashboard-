@@ -17,4 +17,4 @@ Out of four states. Females have more bank balance in 3 states. On an average of
 
 In Oregon State, Females have contributed 72.95 % of bank balance. Highest in all four states.
 
-In Oregon State, Males have contributed 73.26 % of bank balance. Highest in all four states.
+In Nevada State, Males have contributed 73.26 % of bank balance. Highest in all four states.
